@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class HelloMethods {
     static Scanner sc = new Scanner(System.in);
 
     static String[] coffeeMenu = {"cappuccino", "v60", "latte", "espresso", "aeropress"};
